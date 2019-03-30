@@ -1,6 +1,6 @@
 <?php
 
-namespace GenesisPlugins\GenesisCustomizer;
+namespace SeoThemes\GenesisCustomizer;
 
 return [
 	'admin-menu'          => esc_html__( 'Theme Setup', '@@textdomain' ),

@@ -1,6 +1,6 @@
 <?php
 
-namespace GenesisPlugins\GenesisCustomizer;
+namespace SeoThemes\GenesisCustomizer;
 
 // Load dependencies first.
 if ( class_exists( 'WP_Dependency_Installer' ) ) {

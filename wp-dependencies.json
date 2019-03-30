@@ -3,7 +3,7 @@
     "name": "Genesis Customizer plugin",
     "host": "github",
     "slug": "genesis-customizer/genesis-customizer.php",
-    "uri": "genesisplugins/genesis-customizer",
+    "uri": "genesiscustomizer/plugin",
     "branch": "master",
     "optional": false,
     "token": null

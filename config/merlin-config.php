@@ -1,6 +1,6 @@
 <?php
 
-namespace GenesisPlugins\GenesisCustomizer;
+namespace SeoThemes\GenesisCustomizer;
 
 return [
 	'base_path'            => \get_stylesheet_directory() . '/vendor/richtabor/',
